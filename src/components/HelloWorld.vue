@@ -33,6 +33,7 @@
 <script lang="ts">
 import Vue from 'vue';
 import * as moment from 'moment';
+// The below import fails to work, too
 // import moment from 'moment';
 import { Moment } from 'moment';
 
